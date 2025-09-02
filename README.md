@@ -1,5 +1,9 @@
 # PyTorch Demo of the Hyperspectral Image Classification method - SClusterFormer.
 
+This repository contains the PyTorch implementation of the paper:
+
+**​​Deformable Convolution-Enhanced Hierarchical Transformer With Spectral-Spatial Cluster Attention for Hyperspectral Image Classification​**
+
 Using the code should cite the following paper:
 
 Y. Fang, L. Sun, Y. Zheng and Z. Wu, "Deformable Convolution-Enhanced Hierarchical Transformer With Spectral-Spatial Cluster Attention for Hyperspectral Image Classification," in IEEE Transactions on Image Processing, vol. 34, pp. 701-716, 2025, doi: 10.1109/TIP.2024.3522809. 
@@ -16,7 +20,9 @@ Y. Fang, L. Sun, Y. Zheng and Z. Wu, "Deformable Convolution-Enhanced Hierarchic
   doi={10.1109/TIP.2024.3522809}}
 
 This project has referred to the following works:
+
 [1] L. Sun, G. Zhao, Y. Zheng and Z. Wu, "Spectral–Spatial Feature Tokenization Transformer for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-14, 2022, Art no. 5522214, doi: 10.1109/TGRS.2022.3144158.
+
 [2] Y. Fang, Q. Ye, L. Sun, Y. Zheng and Z. Wu, "Multiattention Joint Convolution Feature Representation With Lightweight Transformer for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-14, 2023, Art no. 5513814, doi: 10.1109/TGRS.2023.3281511.
 
 # Description.
